@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>MonBlog</title><link href="http://mypelican.com/" rel="alternate"></link><link href="http://mypelican.com/feeds/all.atom.xml" rel="self"></link><id>http://mypelican.com/</id><updated>2020-09-08T00:00:00+02:00</updated><entry><title>Articles divers</title><link href="http://mypelican.com/articles-divers.html" rel="alternate"></link><updated>2020-09-08T00:00:00+02:00</updated><author><name>Nadia</name></author><id>tag:mypelican.com,2020-09-08:articles-divers.html</id><summary type="html">&lt;h2&gt;Articles divers&lt;/h2&gt;
 &lt;p&gt;If you don't know how the server come to be in &lt;/p&gt;</summary></entry><entry><title>An article about Pelican</title><link href="http://mypelican.com/an-article-about-pelican.html" rel="alternate"></link><updated>2020-08-05T18:25:00+02:00</updated><author><name>Nadia</name></author><id>tag:mypelican.com,2020-08-05:an-article-about-pelican.html</id><summary type="html">&lt;h2&gt;Using Pelican to generate static files&lt;/h2&gt;
-&lt;p&gt;In this post we'll see how to use Pelican to generate a static file
-dbebgfggd dhhchc  vkjvvjhfjh kjhfjfhdjdsgsdgfjg&lt;/p&gt;</summary><category term="pelican"></category><category term="tutorial"></category></entry></feed>
+&lt;p&gt;Vous débutez dans le développement web et aimeriez apprendre de nouvelles choses? Vous savez faire des pages mais en 
+avez marre de retaper le code HTML sans arrêt et aimeriez que votre projet soit plus intelligent et/ou mieux organisé?
+ Pourquoi dans ce cas ne pas utiliser un générateur de site web statique? Cest ce que je vous propose ici dans ce 
+tutoriel parlant du générateur nommé&lt;/p&gt;
+&lt;h2&gt;Using Pelican is to easy&lt;/h2&gt;
+&lt;p&gt;Ces outils de création offre un bon compromis entre simplicité de rédaction et performance, mais nous verrons cela 
+plus en profondeur dans la première partie de ce tutoriel.&lt;/p&gt;</summary><category term="pelican"></category><category term="tutorial"></category></entry></feed>
